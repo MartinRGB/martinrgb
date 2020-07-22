@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+我是 Martin，生活在北京的动画设计师，兴趣点在于 __图形学__ 与 __原型动画设计__ ，喜欢走难路并分享，但是 __非常介意__ Copycat 和盗取 Credit 的公司和人，目前学习 __数学__ 与 __图形学__ 中。嗜酒，好恶分明。
