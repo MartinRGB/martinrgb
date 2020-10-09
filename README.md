@@ -44,12 +44,12 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 好恶分明。
           </td>
-            <td rowspan=2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&layout=compact&card_width=445" /></td>
+            <td rowspan=2><img style="max-width: 50% !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&card_width=495" /></td>
         </tr>
         <tr>
         </tr>
         <tr>
-            <td rowspan=2><img src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" /></td>
+            <td rowspan=2><img style="max-width: 50% !important;" src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" /></td>
         </tr>
         <tr>
         </tr>
