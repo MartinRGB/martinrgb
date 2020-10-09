@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" />
+</div>
 
 我是 Martin，
 
