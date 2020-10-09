@@ -56,4 +56,10 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
     </tbody>
 </table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb)
+<p align="center">
+    <a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb" alt="Vistor"></a>
+	<a href="https://github.com/martinrgb"><img src="https://img.shields.io/github/followers/martinrgb?style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/twitter/follow/qiuyinsen?label=follow&style=social" alt="Twitter"></a>
+	<a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
+    <a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/微博--_.svg?style=social&logo=sina-weibo" alt="微博"></a>
+</p>
