@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **MartinRGB/martinrgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 -->
 
-<div style="display: inline-grid;float: right;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" />
-</div>
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=4>
+              
+Hi there 👋
 
 我是 Martin，
 
@@ -40,3 +43,18 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 嗜酒，
 
 好恶分明。
+          </td>
+            <td rowspan=2><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinrgb&layout=compact&card_width=445" /></td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td rowspan=2><img src="https://github-readme-stats.vercel.app/api?username=martinrgb&show_icons=true" /></td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+
+
