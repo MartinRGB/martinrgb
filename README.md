@@ -69,13 +69,13 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 **Technologies**
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Wordpress](https://img.shields.io/badge/-WordPress-000?&logo=Wordpress)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
 ![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -83,6 +83,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![Bintray](https://img.shields.io/badge/-Bintray-000?&logo=JFrogBintray)
 
 
 **Tools**
@@ -97,6 +98,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![VSC](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 ![AS](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio)
 ![XCode](https://img.shields.io/badge/-Xcode-000?&logo=XCode)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
 
 **Social Media**
