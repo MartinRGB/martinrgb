@@ -65,6 +65,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000?&logo=CoffeeScript)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
@@ -73,17 +74,23 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![SVG](https://img.shields.io/badge/-SVG-000?&logo=SVG)
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
+![Stylus](https://img.shields.io/badge/-Stylus-000?&logo=Stylus)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 ![Wordpress](https://img.shields.io/badge/-WordPress-000?&logo=Wordpress)
+![IcoMoon](https://img.shields.io/badge/-IcoMoon-000?&logo=IcoMoon)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-000?&logo=Travis-CI)
+![HomeBrew](https://img.shields.io/badge/-HomeBrew-000?&logo=HomeBrew)
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
 ![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
@@ -102,7 +109,9 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Sketch](https://img.shields.io/badge/-Sketch-000?&logo=Sketch)
 ![After Effects](https://img.shields.io/badge/-AfterEffects-000?&logo=adobe-after-effects)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-Illustrator)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+![Framer](https://img.shields.io/badge/-Framer-000?&logo=framer)
 
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
@@ -118,9 +127,13 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 <p align="left">
 <a href="https://github.com/martinrgb"><img src="https://img.shields.io/github/followers/martinrgb?style=social" alt="GitHub"></a>
-<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/twitter/follow/qiuyinsen?label=follow&style=social" alt="Twitter"></a>
 <a href="https://dribbble.com/martinrgb"><img src="https://img.shields.io/badge/Dribbble--_.svg?style=social&logo=dribbble" alt="Dribbble"></a>
+<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/twitter/follow/qiuyinsen?label=follow&style=social" alt="Twitter"></a>
+<a href="https://soundcloud.com/martinrgb"><img src="https://img.shields.io/badge/SoundCloud--_.svg?style=social&logo=SoundCloud" alt="SoundCloud"></a>
+	
 <a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
 <a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/微博--_.svg?style=social&logo=sina-weibo" alt="微博"></a>
+<a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/豆瓣--_.svg?style=social&logo=douban" alt="豆瓣"></a>
+<a href="https://sourcerer.io/martinrgb"><img src="https://img.shields.io/badge/Sourcerer.io--_.svg?style=social" alt="Sourcerer"></a>
 <a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb" alt="Vistor"></a>
 </p>
