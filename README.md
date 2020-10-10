@@ -66,6 +66,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000?&logo=CoffeeScript)
+![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
