@@ -79,29 +79,36 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
-![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![TravisCI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI)
-![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
-![Android](https://img.shields.io/badge/-Android-000?&logo=android)
-![Bintray](https://img.shields.io/badge/-Bintray-000?&logo=JFrogBintray)
-![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=Gradle)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
 
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![TravisCI](https://img.shields.io/badge/-TravisCI-000?&logo=Travis-CI)
+
+![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
+![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
+
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![Bintray](https://img.shields.io/badge/-Bintray-000?&logo=jfrog-bintray)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=Gradle)
+
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-000?&logo=CocoaPods)
 
 
 **Tools**
 
-![AE](https://img.shields.io/badge/-AfterEffects-000?&logo=adobeaftereffects)
-![PS](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Sketch](https://img.shields.io/badge/-Sketch-000?&logo=Sketch)
+![After Effects](https://img.shields.io/badge/-AfterEffects-000?&logo=adobe-after-effects)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
-![VSC](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
-![AS](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio)
+![VSC](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
+![AS](https://img.shields.io/badge/-AndroidStudio-000?&logo=android-studio)
 ![XCode](https://img.shields.io/badge/-Xcode-000?&logo=XCode)
+
+![Windows](https://img.shields.io/badge/-Ubuntu-000?&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
 
