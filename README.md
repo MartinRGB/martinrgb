@@ -130,7 +130,6 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 <a href="https://dribbble.com/martinrgb"><img src="https://img.shields.io/badge/Dribbble--_.svg?style=social&logo=dribbble" alt="Dribbble"></a>
 <a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/twitter/follow/qiuyinsen?label=follow&style=social" alt="Twitter"></a>
 <a href="https://soundcloud.com/martinrgb"><img src="https://img.shields.io/badge/SoundCloud--_.svg?style=social&logo=SoundCloud" alt="SoundCloud"></a>
-	
 <a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
 <a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/微博--_.svg?style=social&logo=sina-weibo" alt="微博"></a>
 <a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/豆瓣--_.svg?style=social&logo=douban" alt="豆瓣"></a>
