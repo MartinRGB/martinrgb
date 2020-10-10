@@ -69,13 +69,21 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 **Technologies**
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Wordpress](https://img.shields.io/badge/-WordPress-000?&logo=Wordpress)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
+![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+
 
 **Tools**
 
@@ -85,11 +93,13 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Sketch](https://img.shields.io/badge/-Sketch-000?&logo=Sketch)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
 ![VSC](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 ![AS](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio)
 ![XCode](https://img.shields.io/badge/-Xcode-000?&logo=XCode)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
 
-**Social**
+**Social Media**
 
 <p align="left">
 <a href="https://github.com/martinrgb"><img src="https://img.shields.io/github/followers/martinrgb?style=social" alt="GitHub"></a>
