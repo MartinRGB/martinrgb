@@ -66,6 +66,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
 **Technologies**
 
@@ -77,8 +78,9 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![TravisCI](https://img.shields.io/badge/-TravisCI-000?&logo=Travis-CI)
