@@ -71,19 +71,23 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![SVG](https://img.shields.io/badge/-SVG-000?&logo=SVG)
 ![Wordpress](https://img.shields.io/badge/-WordPress-000?&logo=Wordpress)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=npm)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue-dot-js)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![TravisCI](https://img.shields.io/badge/-TravisCI-000?&logo=TravisCI)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Bintray](https://img.shields.io/badge/-Bintray-000?&logo=JFrogBintray)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=Gradle)
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
+
 
 
 **Tools**
