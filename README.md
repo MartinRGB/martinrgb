@@ -119,6 +119,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![AS](https://img.shields.io/badge/-AndroidStudio-000?&logo=android-studio)
 ![XCode](https://img.shields.io/badge/-Xcode-000?&logo=XCode)
 
+![macOS](https://img.shields.io/badge/-macOS-000?&logo=Apple)
 ![Windows](https://img.shields.io/badge/-Ubuntu-000?&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
