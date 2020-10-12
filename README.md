@@ -148,6 +148,12 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
 ![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
 
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+
 **Vistor counts**
 
 <a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb&color" alt="Vistor"></a>
