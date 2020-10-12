@@ -111,7 +111,6 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![After Effects](https://img.shields.io/badge/-AfterEffects-000?&logo=adobe-after-effects)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-Illustrator)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Framer](https://img.shields.io/badge/-Framer-000?&logo=framer)
 
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
@@ -138,5 +137,17 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 <a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/-豆瓣-000?logo=douban" alt="豆瓣"></a>
 <a href="mailto:qiuyinsen@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
 <a href="https://sourcerer.io/martinrgb"><img src="https://img.shields.io/badge/-Sourcerer.io-000?" alt="Sourcerer"></a>
-<a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb" alt="Vistor"></a>
 </p>
+
+**I'm currently learning**
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Math](https://img.shields.io/badge/-Math-000?&logo=mathworks)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
+![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
+![Houdini](https://img.shields.io/badge/-Houdini-000?&logo=Houdini)
+
+**Vistor counts**
+<a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb&color" alt="Vistor"></a>
+
