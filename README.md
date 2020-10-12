@@ -140,12 +140,13 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 
 **I'm currently learning**
 
+![Math](https://img.shields.io/badge/-Math-000?&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Math](https://img.shields.io/badge/-Math-000?&logo=mathworks)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
 ![Houdini](https://img.shields.io/badge/-Houdini-000?&logo=Houdini)
+![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
+![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
 
 **Vistor counts**
 
