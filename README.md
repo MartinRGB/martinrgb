@@ -63,7 +63,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 **Languages**
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000?&logo=CoffeeScript)
 ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
@@ -128,13 +128,15 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 **Social Media**
 
 <p align="left">
-<a href="https://github.com/martinrgb"><img src="https://img.shields.io/github/followers/martinrgb?style=social" alt="GitHub"></a>
-<a href="https://dribbble.com/martinrgb"><img src="https://img.shields.io/badge/Dribbble--_.svg?style=social&logo=dribbble" alt="Dribbble"></a>
-<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/twitter/follow/qiuyinsen?label=follow&style=social" alt="Twitter"></a>
-<a href="https://soundcloud.com/martinrgb"><img src="https://img.shields.io/badge/SoundCloud--_.svg?style=social&logo=SoundCloud" alt="SoundCloud"></a>
-<a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/知乎--_.svg?style=social&logo=zhihu" alt="知乎"></a>
-<a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/微博--_.svg?style=social&logo=sina-weibo" alt="微博"></a>
-<a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/豆瓣--_.svg?style=social&logo=douban" alt="豆瓣"></a>
-<a href="https://sourcerer.io/martinrgb"><img src="https://img.shields.io/badge/Sourcerer.io--_.svg?style=social" alt="Sourcerer"></a>
+<a href="https://github.com/martinrgb"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
+<a href="https://dribbble.com/martinrgb"><img src="https://img.shields.io/badge/-Dribbble-000?logo=dribbble" alt="Dribbble"></a>
+<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/badge/-Twitter-000?logo=Twitter" alt="Twitter"></a>
+<a href="https://www.instagram.com/martinrgb/"><img src="https://img.shields.io/badge/-Instagram-000?logo=Instagram" alt="Instagram"></a>
+<a href="https://soundcloud.com/martinrgb"><img src="https://img.shields.io/badge/-SoundCloud-000?logo=SoundCloud" alt="SoundCloud"></a>
+<a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
+<a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/-微博-000?logo=sina-weibo" alt="微博"></a>
+<a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/-豆瓣-000?logo=douban" alt="豆瓣"></a>
+<a href="mailto:qiuyinsen@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
+<a href="https://sourcerer.io/martinrgb"><img src="https://img.shields.io/badge/-Sourcerer.io-000?" alt="Sourcerer"></a>
 <a href="https://github.com/martinrgb"><img src="https://visitor-badge.glitch.me/badge?page_id=martinrgb.martinrgb" alt="Vistor"></a>
 </p>
