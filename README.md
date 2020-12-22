@@ -68,6 +68,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 **Technologies**
 
@@ -85,6 +86,7 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![HEXO](https://img.shields.io/badge/-HEXO-000?&logo=hexo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
@@ -148,8 +150,6 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
 ![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
