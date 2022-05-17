@@ -27,19 +27,13 @@ Hi there 👋
 
 我是 Martin，
 
-生活在北京的动画设计师，
-
 兴趣点在于 __图形学__ 与 __动画设计__ ，
 
 目前学习 __数学__ 中，
 
-喜欢走难路并分享，
-
-喜欢跟忠于并热忱于技术的人交朋友，
+喜欢走难路，
 
 __非常介意__ Copycat 和盗取 Credit 的公司和人，
-
-嗜酒，
 
 好恶分明。
           </td>
@@ -124,21 +118,6 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
-
-**Social Media**
-
-<p align="left">
-<a href="https://github.com/martinrgb"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
-<a href="https://dribbble.com/martinrgb"><img src="https://img.shields.io/badge/-Dribbble-000?logo=dribbble" alt="Dribbble"></a>
-<a href="https://twitter.com/qiuyinsen"><img src="https://img.shields.io/badge/-Twitter-000?logo=Twitter" alt="Twitter"></a>
-<a href="https://www.instagram.com/martinrgb/"><img src="https://img.shields.io/badge/-Instagram-000?logo=Instagram" alt="Instagram"></a>
-<a href="https://soundcloud.com/martinrgb"><img src="https://img.shields.io/badge/-SoundCloud-000?logo=SoundCloud" alt="SoundCloud"></a>
-<a href="https://www.zhihu.com/people/martinrgb"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
-<a href="https://weibo.com/1956547962"><img src="https://img.shields.io/badge/-微博-000?logo=sina-weibo" alt="微博"></a>
-<a href="https://www.douban.com/people/MartinRGB/"><img src="https://img.shields.io/badge/-豆瓣-000?logo=douban" alt="豆瓣"></a>
-<a href="mailto:qiuyinsen@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
-<a href="https://sourcerer.io/martinrgb"><img src="https://img.shields.io/badge/-Sourcerer.io-000?" alt="Sourcerer"></a>
-</p>
 
 **I'm currently learning**
 
