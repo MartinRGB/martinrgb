@@ -118,13 +118,13 @@ __非常介意__ Copycat 和盗取 Credit 的公司和人，
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 
 **I'm currently learning**
 
 ![Math](https://img.shields.io/badge/-Math-000?&logo=mathworks)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 ![Houdini](https://img.shields.io/badge/-Houdini-000?&logo=Houdini)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
 ![UnReal Engine](https://img.shields.io/badge/-UnReal-000?&logo=unreal-engine)
